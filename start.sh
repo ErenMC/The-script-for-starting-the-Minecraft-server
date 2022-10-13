@@ -1,5 +1,3 @@
-#!/bin/bash
-# Bash Menu Script Example
 PS3="Число и нажмите Enter: "
 options=("Инфо хоста" "Запуск сервера" "О скрипте" "Ливнуть")
 select opt in "${options[@]}"
