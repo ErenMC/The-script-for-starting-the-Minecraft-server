@@ -26,6 +26,8 @@ java -Xmx4G -Xms2G -Dfile.encoding=UTF-8 -jar ВашеЯдро.jar
 ```
 
 # Создатель и версия 🧐
+> ![1](https://otkritkis.com/wp-content/uploads/2022/07/gwvl9.gif)
+
 
 + By: Zahar Eren
 + Версия 1.0
