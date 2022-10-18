@@ -15,6 +15,8 @@
   + Тепрературы процесора 
   + И по мелочам
 # Скрины 📷
+![2](https://sun9-83.userapi.com/impg/HrFE64_IcOCy2uww2txYSCQyJCZ7LLtuZqckQA/FVwb2axAQD4.jpg?size=613x395&quality=95&sign=708bc461ce2b3ee2b7da533b0b6251dc&type=album)
+![3](https://sun9-62.userapi.com/impg/cO2B3ex9ppSht5KzSImEdHjJBZKDvyuICq6WQw/DK8TkLLE1YM.jpg?size=598x387&quality=95&sign=5ae098666b0e17f8ab36fc5ed9848ac6&type=album)
 
 
 # Приколы 🤗
