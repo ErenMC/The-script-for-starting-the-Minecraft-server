@@ -45,7 +45,6 @@ java -Xmx4G -Xms2G -Dfile.encoding=UTF-8 -jar ВашеЯдро.jar
 + Версия 1.0
 
 # Сыллки
-[MirrorStudio](https://discord.gg/mrGcwhTyMg) Студия по дизайну, Сайтам, Minecraft Серверов- Дёшево, а главное качествено
 
 [Моя страница вк](https://vk.com/zahareren)
 
