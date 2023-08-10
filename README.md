@@ -20,13 +20,13 @@
 
 
 # Приколы 🤗
-Если нужен просто скрипт для запуска сервера то вот || Скрипт работает на хостах на Linux
+Если нужен просто скрипт для запуска сервера то вот || Скрипт работает на хостах на Linux (Если у вас Windows Server то скачайте Git)
 (Под жабу 8)
 
 ``` sh
 java -Xmx4G -Xms2G -Dfile.encoding=UTF-8 -jar ВашеЯдро.jar
 ```
-Скрипт работает на хостах на Linux (Под жабу 16-18)
+Скрипт работает на хостах на Linux (Если у вас Windows Server то скачайте Git) (Под жабу 16-18)
 ```
 "/usr/lib/jvm/jdk-Ваша_версия_жабы/bin/java" -Xms2G -Xmx4G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:InitiatingHeapOccupancyPercent=15 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -jar ВашеЯдро.jar nogui
 ```
